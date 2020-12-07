@@ -1,4 +1,4 @@
-# Installs [fd 8.1.1](https://github.com/sharkdp/fd) on [Ubuntu](https://www.ubuntu.com/)
+# Installs [fd 8.2.1](https://github.com/sharkdp/fd) on [Ubuntu](https://www.ubuntu.com/)
 
 ```bash
 wget -q https://script.install.devinsideyou.com/fd
@@ -9,5 +9,5 @@ sudo chmod +x fd && ./fd
 
 ```bash
 wget -q https://script.install.devinsideyou.com/fd
-sudo chmod +x fd && ./fd 8.1.1
+sudo chmod +x fd && ./fd 8.2.1
 ```
